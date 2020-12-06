@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegisterActivity</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_nomer_telephone">Nomer Telephone</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_reset_password">Reset Password</string>
+    <string name="txt_data_diri">Data Diri</string>
+    <string name="txt_error">Harus di isi ya guys!</string>
+</resources>
