@@ -2,7 +2,6 @@ package com.idn.smart.tiyas.registeractivity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_show_data.*
 
 
